@@ -1,0 +1,18 @@
+* {
+
+}
+/*style for body*/
+body {
+	background-color: skyblue;
+}
+
+/*style for container*/
+.container {
+	background-color: royalblue;
+	color: black;
+}
+
+/*style for image*/
+img {
+	width: 300px;
+}
